@@ -1,0 +1,20 @@
+p,li,a{
+    color : darkred ;
+}
+#hello{
+    background-color: white;
+    border: 1px solid black
+}
+#welcome{
+    margin-top: 5px
+    }
+p{background-color: white;}
+#hide{display: none;}
+p{display:inline}
+#ech{
+    background-color: orange;
+    border : 1px solid black;
+}
+#ech1{
+    background-color: bisque
+}
